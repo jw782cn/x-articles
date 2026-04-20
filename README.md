@@ -1,0 +1,74 @@
+# X 精品文章
+
+X/Twitter 精品文章翻译收藏。从飞书知识库同步。
+
+共 54 篇文章，分为 5 个分类。
+
+## Agent (26 篇)
+
+- [[2026-03-21] .claude 文件夹完全解析](Agent/.claude-%E6%96%87%E4%BB%B6%E5%A4%B9%E5%AE%8C%E5%85%A8%E8%A7%A3%E6%9E%90.md)
+- [[2026-03-17] Harness 才是一切](Agent/Harness-%E6%89%8D%E6%98%AF%E4%B8%80%E5%88%87.md)
+- [[2026-03-22] Agent 记忆的前沿 ~99% SOTA](Agent/Agent-%E8%AE%B0%E5%BF%86%E7%9A%84%E5%89%8D%E6%B2%BF-~99%25-SOTA.md)
+- [[2026-03-19] 装好了 Paperclip 然后呢](Agent/%E8%A3%85%E5%A5%BD%E4%BA%86-Paperclip-%E7%84%B6%E5%90%8E%E5%91%A2.md)
+- [[2026-03-23] 年轻人应该去学焊接](Agent/%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%BA%94%E8%AF%A5%E5%8E%BB%E5%AD%A6%E7%84%8A%E6%8E%A5.md)
+- [[2026-03-25] 长时间运行应用开发的 Harness 设计](Agent/%E9%95%BF%E6%97%B6%E9%97%B4%E8%BF%90%E8%A1%8C%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E7%9A%84-Harness-%E8%AE%BE%E8%AE%A1.md)
+- [[2026-03-31] 我读完了 Claude Code 的源码](Agent/%E6%88%91%E8%AF%BB%E5%AE%8C%E4%BA%86-Claude-Code-%E7%9A%84%E6%BA%90%E7%A0%81.md)
+- [[2026-03-29] 我不再撞 Claude 的用量限制了](Agent/%E6%88%91%E4%B8%8D%E5%86%8D%E6%92%9E-Claude-%E7%9A%84%E7%94%A8%E9%87%8F%E9%99%90%E5%88%B6%E4%BA%86.md)
+- [[2026-03-31] 从 Claude Code 源码泄露看未来方向](Agent/%E4%BB%8E-Claude-Code-%E6%BA%90%E7%A0%81%E6%B3%84%E9%9C%B2%E7%9C%8B%E6%9C%AA%E6%9D%A5%E6%96%B9%E5%90%91.md)
+- [[2026-03-25] 为 Agent 构建 CLI 的最佳实践](Agent/%E4%B8%BA-Agent-%E6%9E%84%E5%BB%BA-CLI-%E7%9A%84%E6%9C%80%E4%BD%B3%E5%AE%9E%E8%B7%B5.md)
+- [[2026-03-26] 我们如何为 Deep Agents 构建评测体系](Agent/%E6%88%91%E4%BB%AC%E5%A6%82%E4%BD%95%E4%B8%BA-Deep-Agents-%E6%9E%84%E5%BB%BA%E8%AF%84%E6%B5%8B%E4%BD%93%E7%B3%BB.md)
+- [[2026-04-07] Project Glasswing](Agent/Project-Glasswing.md)
+- [[2026-04-07] Claude Mythos Preview](Agent/Claude-Mythos-Preview.md)
+- [[2026-04-08] Amazon S3 Files](Agent/Amazon-S3-Files.md)
+- [[2026-04-07] Railway 将整个前端从 Next.js 迁出](Agent/Railway-%E5%B0%86%E6%95%B4%E4%B8%AA%E5%89%8D%E7%AB%AF%E4%BB%8E-Next.js-%E8%BF%81%E5%87%BA.md)
+- [[2026-04-07] 我们有400个 n8n 工作流正在全部迁移到 Claude Code](Agent/%E6%88%91%E4%BB%AC%E6%9C%89400%E4%B8%AA-n8n-%E5%B7%A5%E4%BD%9C%E6%B5%81%E6%AD%A3%E5%9C%A8%E5%85%A8%E9%83%A8%E8%BF%81%E7%A7%BB%E5%88%B0-Claude-Code.md)
+- [[2026-04-09] 扩展 Managed Agents 将大脑与双手解耦](Agent/%E6%89%A9%E5%B1%95-Managed-Agents-%E5%B0%86%E5%A4%A7%E8%84%91%E4%B8%8E%E5%8F%8C%E6%89%8B%E8%A7%A3%E8%80%A6.md)
+- [[2026-04-09] S3 Files 性能深度分析](Agent/S3-Files-%E6%80%A7%E8%83%BD%E6%B7%B1%E5%BA%A6%E5%88%86%E6%9E%90.md)
+- [[2026-04-08] 发布 Claude Managed Agents](Agent/%E5%8F%91%E5%B8%83-Claude-Managed-Agents.md)
+- [[2026-04-09] Agent 优先产品工程的黄金法则](Agent/Agent-%E4%BC%98%E5%85%88%E4%BA%A7%E5%93%81%E5%B7%A5%E7%A8%8B%E7%9A%84%E9%BB%84%E9%87%91%E6%B3%95%E5%88%99.md)
+- [[2026-04-08] Better Harness 用 Evals 进行 Harness 爬山优化](Agent/Better-Harness-%E7%94%A8-Evals-%E8%BF%9B%E8%A1%8C-Harness-%E7%88%AC%E5%B1%B1%E4%BC%98%E5%8C%96.md)
+- [[2026-04-10] Claude Managed Agents Agent Harness 与长时任务基础设施](Agent/Claude-Managed-Agents-Agent-Harness-%E4%B8%8E%E9%95%BF%E6%97%B6%E4%BB%BB%E5%8A%A1%E5%9F%BA%E7%A1%80%E8%AE%BE%E6%96%BD.md)
+- [[2026-04-13] 为什么你的 AI-First 策略可能是错的](Agent/%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BD%A0%E7%9A%84-AI-First-%E7%AD%96%E7%95%A5%E5%8F%AF%E8%83%BD%E6%98%AF%E9%94%99%E7%9A%84.md)
+- [[2026-04-13] Agent 有了自己的电脑 Cloudflare Sandboxes 正式 GA](Agent/Agent-%E6%9C%89%E4%BA%86%E8%87%AA%E5%B7%B1%E7%9A%84%E7%94%B5%E8%84%91-Cloudflare-Sandboxes-%E6%AD%A3%E5%BC%8F-GA.md)
+- [[2026-04-13] Corgi 如何在6个月内达到4000万美元ARR](Agent/Corgi-%E5%A6%82%E4%BD%95%E5%9C%A86%E4%B8%AA%E6%9C%88%E5%86%85%E8%BE%BE%E5%88%B04000%E4%B8%87%E7%BE%8E%E5%85%83ARR.md)
+- [[2026-04-15] 营销已死 分发工程师万岁](Agent/%E8%90%A5%E9%94%80%E5%B7%B2%E6%AD%BB-%E5%88%86%E5%8F%91%E5%B7%A5%E7%A8%8B%E5%B8%88%E4%B8%87%E5%B2%81.md)
+
+## 营销 (22 篇)
+
+- [[2026-03-21] Larry AI Agent 自动化 TikTok 营销实战](%E8%90%A5%E9%94%80/Larry-AI-Agent-%E8%87%AA%E5%8A%A8%E5%8C%96-TikTok-%E8%90%A5%E9%94%80%E5%AE%9E%E6%88%98.md)
+- [[2026-03-21] LinkedIn 病毒式内容背后的心理学](%E8%90%A5%E9%94%80/LinkedIn-%E7%97%85%E6%AF%92%E5%BC%8F%E5%86%85%E5%AE%B9%E8%83%8C%E5%90%8E%E7%9A%84%E5%BF%83%E7%90%86%E5%AD%A6.md)
+- [[2026-03-21] 我靠 TikTok 幻灯片每月赚超过10万美元](%E8%90%A5%E9%94%80/%E6%88%91%E9%9D%A0-TikTok-%E5%B9%BB%E7%81%AF%E7%89%87%E6%AF%8F%E6%9C%88%E8%B5%9A%E8%B6%85%E8%BF%8710%E4%B8%87%E7%BE%8E%E5%85%83.md)
+- [[2026-03-19] 我不懂 AI 却靠它建了百万美元生意](%E8%90%A5%E9%94%80/%E6%88%91%E4%B8%8D%E6%87%82-AI-%E5%8D%B4%E9%9D%A0%E5%AE%83%E5%BB%BA%E4%BA%86%E7%99%BE%E4%B8%87%E7%BE%8E%E5%85%83%E7%94%9F%E6%84%8F.md)
+- [[2026-03-17] 我们把 OpenClaw 变成了自我进化的营销机器](%E8%90%A5%E9%94%80/%E6%88%91%E4%BB%AC%E6%8A%8A-OpenClaw-%E5%8F%98%E6%88%90%E4%BA%86%E8%87%AA%E6%88%91%E8%BF%9B%E5%8C%96%E7%9A%84%E8%90%A5%E9%94%80%E6%9C%BA%E5%99%A8.md)
+- [[2026-01-21] 10个月做了10个App 年入80万美元](%E8%90%A5%E9%94%80/10%E4%B8%AA%E6%9C%88%E5%81%9A%E4%BA%8610%E4%B8%AAApp-%E5%B9%B4%E5%85%A580%E4%B8%87%E7%BE%8E%E5%85%83.md)
+- [[2026-03-30] 我用AI在72小时内建了10000个SEO优化页面](%E8%90%A5%E9%94%80/%E6%88%91%E7%94%A8AI%E5%9C%A872%E5%B0%8F%E6%97%B6%E5%86%85%E5%BB%BA%E4%BA%8610000%E4%B8%AASEO%E4%BC%98%E5%8C%96%E9%A1%B5%E9%9D%A2.md)
+- [[2026-03-26] 用 Agent 把应用做到月入2万美金的完整指南](%E8%90%A5%E9%94%80/%E7%94%A8-Agent-%E6%8A%8A%E5%BA%94%E7%94%A8%E5%81%9A%E5%88%B0%E6%9C%88%E5%85%A52%E4%B8%87%E7%BE%8E%E9%87%91%E7%9A%84%E5%AE%8C%E6%95%B4%E6%8C%87%E5%8D%97.md)
+- [[2026-04-07] 我们如何用 Claude 做邮件营销创造数百万收入](%E8%90%A5%E9%94%80/%E6%88%91%E4%BB%AC%E5%A6%82%E4%BD%95%E7%94%A8-Claude-%E5%81%9A%E9%82%AE%E4%BB%B6%E8%90%A5%E9%94%80%E5%88%9B%E9%80%A0%E6%95%B0%E7%99%BE%E4%B8%87%E6%94%B6%E5%85%A5.md)
+- [[2026-04-07] 如何从全球任何地方获取90%美国受众](%E8%90%A5%E9%94%80/%E5%A6%82%E4%BD%95%E4%BB%8E%E5%85%A8%E7%90%83%E4%BB%BB%E4%BD%95%E5%9C%B0%E6%96%B9%E8%8E%B7%E5%8F%9690%25%E7%BE%8E%E5%9B%BD%E5%8F%97%E4%BC%97.md)
+- [[2026-04-09] 我造了个假AI和尚6个月赚了50万美元](%E8%90%A5%E9%94%80/%E6%88%91%E9%80%A0%E4%BA%86%E4%B8%AA%E5%81%87AI%E5%92%8C%E5%B0%9A6%E4%B8%AA%E6%9C%88%E8%B5%9A%E4%BA%8650%E4%B8%87%E7%BE%8E%E5%85%83.md)
+- [[2026-04-09] Claude 如何帮我省了3万美元又帮我赚了8.5万](%E8%90%A5%E9%94%80/Claude-%E5%A6%82%E4%BD%95%E5%B8%AE%E6%88%91%E7%9C%81%E4%BA%863%E4%B8%87%E7%BE%8E%E5%85%83%E5%8F%88%E5%B8%AE%E6%88%91%E8%B5%9A%E4%BA%868.5%E4%B8%87.md)
+- [[2026-04-10] 如何搭建你自己的 Content Engine](%E8%90%A5%E9%94%80/%E5%A6%82%E4%BD%95%E6%90%AD%E5%BB%BA%E4%BD%A0%E8%87%AA%E5%B7%B1%E7%9A%84-Content-Engine.md)
+- [[2026-04-09] 用20美元AI订阅实现月浏览3000万 Content Engine 方法论](%E8%90%A5%E9%94%80/%E7%94%A820%E7%BE%8E%E5%85%83AI%E8%AE%A2%E9%98%85%E5%AE%9E%E7%8E%B0%E6%9C%88%E6%B5%8F%E8%A7%883000%E4%B8%87-Content-Engine-%E6%96%B9%E6%B3%95%E8%AE%BA.md)
+- [[2026-02-28] AI Agent 自动剪辑流行文化内容一个月赚了1万美元](%E8%90%A5%E9%94%80/AI-Agent-%E8%87%AA%E5%8A%A8%E5%89%AA%E8%BE%91%E6%B5%81%E8%A1%8C%E6%96%87%E5%8C%96%E5%86%85%E5%AE%B9%E4%B8%80%E4%B8%AA%E6%9C%88%E8%B5%9A%E4%BA%861%E4%B8%87%E7%BE%8E%E5%85%83.md)
+- [[2026-04-07] 让AI写的内容不像AI Corey Ganim 的 Content Engine](%E8%90%A5%E9%94%80/%E8%AE%A9AI%E5%86%99%E7%9A%84%E5%86%85%E5%AE%B9%E4%B8%8D%E5%83%8FAI-Corey-Ganim-%E7%9A%84-Content-Engine.md)
+- [[2026-04-08] 如何克隆你最好的内容 Clipping 策略完全指南](%E8%90%A5%E9%94%80/%E5%A6%82%E4%BD%95%E5%85%8B%E9%9A%86%E4%BD%A0%E6%9C%80%E5%A5%BD%E7%9A%84%E5%86%85%E5%AE%B9-Clipping-%E7%AD%96%E7%95%A5%E5%AE%8C%E5%85%A8%E6%8C%87%E5%8D%97.md)
+- [[2026-04-10] 如何用 AI 制造病毒传播 5000条爆款短视频的6个结构性规律](%E8%90%A5%E9%94%80/%E5%A6%82%E4%BD%95%E7%94%A8-AI-%E5%88%B6%E9%80%A0%E7%97%85%E6%AF%92%E4%BC%A0%E6%92%AD-5000%E6%9D%A1%E7%88%86%E6%AC%BE%E7%9F%AD%E8%A7%86%E9%A2%91%E7%9A%846%E4%B8%AA%E7%BB%93%E6%9E%84%E6%80%A7%E8%A7%84%E5%BE%8B.md)
+- [[2026-04-13] LinkedIn GTM 蓝图 SaaS AI 公司获客指南](%E8%90%A5%E9%94%80/LinkedIn-GTM-%E8%93%9D%E5%9B%BE-SaaS-AI-%E5%85%AC%E5%8F%B8%E8%8E%B7%E5%AE%A2%E6%8C%87%E5%8D%97.md)
+- [[2026-04-17] 你最好的视频创意其实早已存在于别处](%E8%90%A5%E9%94%80/%E4%BD%A0%E6%9C%80%E5%A5%BD%E7%9A%84%E8%A7%86%E9%A2%91%E5%88%9B%E6%84%8F%E5%85%B6%E5%AE%9E%E6%97%A9%E5%B7%B2%E5%AD%98%E5%9C%A8%E4%BA%8E%E5%88%AB%E5%A4%84.md)
+- [[2026-04-18] 如何用 Claude 逆向工程 Google Ads 策略](%E8%90%A5%E9%94%80/%E5%A6%82%E4%BD%95%E7%94%A8-Claude-%E9%80%86%E5%90%91%E5%B7%A5%E7%A8%8B-Google-Ads-%E7%AD%96%E7%95%A5.md)
+- [[2026-04-17] 如何用 AI UGC 将色欲变现](%E8%90%A5%E9%94%80/%E5%A6%82%E4%BD%95%E7%94%A8-AI-UGC-%E5%B0%86%E8%89%B2%E6%AC%B2%E5%8F%98%E7%8E%B0.md)
+
+## 内容 (4 篇)
+
+- [[2026-03-19] UGC 行业已死 AI 杀死了它](%E5%86%85%E5%AE%B9/UGC-%E8%A1%8C%E4%B8%9A%E5%B7%B2%E6%AD%BB-AI-%E6%9D%80%E6%AD%BB%E4%BA%86%E5%AE%83.md)
+- [[2026-03-17] AI 电影制作终极手册](%E5%86%85%E5%AE%B9/AI-%E7%94%B5%E5%BD%B1%E5%88%B6%E4%BD%9C%E7%BB%88%E6%9E%81%E6%89%8B%E5%86%8C.md)
+- [[2026-03-30] 3亿播放330万粉丝15天 Fruit Love Island 的崛起与陨落](%E5%86%85%E5%AE%B9/3%E4%BA%BF%E6%92%AD%E6%94%BE330%E4%B8%87%E7%B2%89%E4%B8%9D15%E5%A4%A9-Fruit-Love-Island-%E7%9A%84%E5%B4%9B%E8%B5%B7%E4%B8%8E%E9%99%A8%E8%90%BD.md)
+- [[2026-04-13] 我每天发帖没有团队只靠 Obsidian Claude](%E5%86%85%E5%AE%B9/%E6%88%91%E6%AF%8F%E5%A4%A9%E5%8F%91%E5%B8%96%E6%B2%A1%E6%9C%89%E5%9B%A2%E9%98%9F%E5%8F%AA%E9%9D%A0-Obsidian-Claude.md)
+
+## 设计 (1 篇)
+
+- [[2026-03-20] 不做设计师也能做设计](%E8%AE%BE%E8%AE%A1/%E4%B8%8D%E5%81%9A%E8%AE%BE%E8%AE%A1%E5%B8%88%E4%B9%9F%E8%83%BD%E5%81%9A%E8%AE%BE%E8%AE%A1.md)
+
+## 其他 (1 篇)
+
+- [Clio 一个隐私保护的真实 AI 使用洞察系统](%E5%85%B6%E4%BB%96/Clio-%E4%B8%80%E4%B8%AA%E9%9A%90%E7%A7%81%E4%BF%9D%E6%8A%A4%E7%9A%84%E7%9C%9F%E5%AE%9E-AI-%E4%BD%BF%E7%94%A8%E6%B4%9E%E5%AF%9F%E7%B3%BB%E7%BB%9F.md)
