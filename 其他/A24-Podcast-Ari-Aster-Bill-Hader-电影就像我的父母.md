@@ -291,6 +291,53 @@
 
 ---
 
+### 电影影响的DNA：John Ford 与 The Searchers / Film DNA: John Ford and The Searchers
+
+**Ari:** Same with, you see The Hudsucker Proxy and you're like, "Oh, that's The Big Clock." There's so much Hawks in there, and Sturges, and so much Capra, and Hail the Conquering Hero.
+**Ari:** 你看《金钱帝国》就知道那是《Big Clock》。里面有大量的 Hawks、Sturges、Capra，还有《Hail the Conquering Hero》。
+
+**Bill:** Oh, a hundred percent. You could tell how much they like Sturges movies. Or even growing up and watching Star Wars and Spielberg, and then seeing The Searchers — which is a movie for me, I think it looks beautiful, but didn't hit me the way I think it did for that generation.
+**Bill:** 完全同意。你能看出他们多喜欢 Sturges 的电影。然后长大看《星球大战》和 Spielberg，再去看《搜索者》——对我来说，它拍得很美，但没有像对那一代人那样击中我。
+
+**Bill:** I think Ford in general, they look amazing. I love My Darling Clementine actually — I think that movie from top to bottom is pretty fantastic.
+**Bill:** 我觉得 Ford 的电影总体上都拍得很美。我其实很爱《侠骨柔情》——从头到尾都很棒。
+
+**Ari:** That's my favorite. It's perfect. And really, really moving. My Darling Clementine, and The Man Who Shot Liberty Valance, and Young Mr. Lincoln are my favorites.
+**Ari:** 那是我最喜欢的。完美的电影。非常非常感人。《侠骨柔情》、《双虎屠龙》和《少年林肯》是我的最爱。
+
+**Bill:** And you could tell it's post when he came back from war, because the whole ending, there's no music and there's something sad and objectively criticizing the violence of the O.K. Corral.
+**Bill:** 你能看出那是他从战场回来之后拍的，因为整个结尾没有音乐，有一种悲伤，客观地批判 O.K. Corral 的暴力。
+
+**Ari:** But I'm with you on The Searchers, which I think is so gorgeous — but tonally, it's really odd for me in a way that doesn't work. Where every time you go back home to the family it's so arch and slapstick.
+**Ari:** 但我同意你对《搜索者》的看法——拍得极其华丽，但在调性上对我来说有些奇怪。每次回到家庭场景就变得很做作和闹剧。
+
+**Bill:** You watch Star Wars and when Luke comes home and sees his home has been set on fire, his aunt and uncle murdered — it's almost shot for shot like The Searchers. I bet it's just part of that language you grew up with. Or you watch Spielberg movies, and then watch a David Lean movie or Michael Curtiz — those filmmakers had a huge influence on him.
+**Bill:** 你看《星球大战》里 Luke 回家发现房子被烧了、叔叔阿姨被杀了——几乎就是《搜索者》的逐帧翻拍。那肯定就是你成长过程中吸收的电影语言。然后你看 Spielberg 的电影，再去看 David Lean 或 Michael Curtiz——这些导演对他影响巨大。
+
+---
+
+### Michael Curtiz 与"电影该有的样子" / Michael Curtiz and "What a Movie Looks Like"
+
+**Ari:** Curtiz does that push in, that really smooth push into a close up. I see a lot of Curtiz in the Coens too.
+**Ari:** Curtiz 那种推镜头，非常平滑地推到特写。我在科恩兄弟的电影里也看到很多 Curtiz 的影子。
+
+**Bill:** The Breaking Point is one of his that I've watched a couple of times.
+**Bill:** 他的《The Breaking Point》我看过好几遍。
+
+**Ari:** I love The Breaking Point. Which is To Have and Have Not, right? It's John Garfield. He's so good. It's so atmospheric and beautiful. Curtiz was amazing.
+**Ari:** 我太爱《The Breaking Point》了。就是《To Have and Have Not》的另一个版本对吧？John Garfield 演的。他太棒了。氛围感十足，拍得太美了。Curtiz 是了不起的导演。
+
+**Bill:** I've watched that a couple of times where initially it was just to watch it, and now I am marveling at the choices in it and how beautiful it is, and how weird and moving those performances are with him and Patricia Neal.
+**Bill:** 我看了好几遍，一开始只是看看，现在是惊叹于里面的选择有多精妙，有多美，John Garfield 和 Patricia Neal 的表演有多奇异和动人。
+
+**Ari:** Mildred Pierce.
+**Ari:** 还有《欲海情魔》。
+
+**Bill:** But those are movies — you feel like "That's what a movie looks like."
+**Bill:** 但那些才是电影——你会觉得"这才是电影该有的样子。"
+
+---
+
 ### Spielberg 是镜头编排之王 / Spielberg: King of Shot Sequencing
 
 **Ari:** Spielberg's shots. He's like the king of shot sequencing. There's nobody better than him.
@@ -323,6 +370,72 @@
 
 ---
 
+### AFI、Guy Maddin 与早期短片 / AFI, Guy Maddin, and Early Shorts
+
+**Ari:** Well, I went to undergrad first, and then I again had to drag friends into standing there uselessly while I did all the jobs, making shorts. And then at AFI, that was my first time working with a crew of people who all had their own discipline. And then you realize, "Oh, not only is the result better, but it's not a joyless, suffocating process."
+**Ari:** 我先上了本科，然后又得拖着朋友们站在那里，我一个人干所有活。到了 AFI，那是我第一次和一群各有专长的人合作。然后你发现"不仅结果更好，而且这个过程不再是令人窒息的痛苦。"
+
+**Bill:** My shit was always my sister, carrying Katie out in the woods in Oklahoma. "All right, you stand there. I'm going to chase you with a camera." Literally doing Evil Dead shaky cam. They loved it, but I was their older brother, so they couldn't say anything.
+**Bill:** 我拍的东西永远是拉着我妹妹 Katie 到俄克拉荷马的树林里。"好，你站那儿，我拿着摄影机追你。"就是照搬《鬼玩人》的晃动镜头。她们喜欢，但我是她们哥，她们也没法说不。
+
+**Ari:** One guy that I was really ripping off was Guy Maddin. He was a really big hero of mine, especially when I first started making shorts. Because those films are made on a shoestring, but they're these phantasmagorias.
+**Ari:** 有一个我当时在模仿的人是 Guy Maddin。他是我的大英雄，特别是在我刚开始拍短片的时候。因为他的电影预算极低，但都是那种奇幻万花筒。
+
+**Ari:** If people haven't seen Guy Maddin's films or what he's doing now with the Johnson Brothers, Evan and Galen — we worked together on Rumours. They're so funny and genuinely brilliant people.
+**Ari:** 如果你没看过 Guy Maddin 的电影，或者他现在和 Johnson 兄弟一起做的东西——我们一起做了《Rumours》。他们特别有趣，是真正的天才。
+
+---
+
+### Peter Greenaway——他不是你走进去的，是他钻进你的 / Peter Greenaway Gets Into You
+
+**Bill:** Peter Greenaway was someone that I never could get into.
+**Bill:** Peter Greenaway 是一个我一直没法入门的导演。
+
+**Ari:** He's not somebody you get into, he gets into you.
+**Ari:** 你不是走进他的世界，是他钻进你的世界。
+
+**Bill:** And then I remember you telling me, "I would give him another shot." And I went back and actually really enjoyed The Cook, the Thief, His Wife & Her Lover.
+**Bill:** 我记得你跟我说"我觉得你可以再给他一次机会。"然后我回去看了《厨师、大盗、他的太太和她的情人》，确实很喜欢。
+
+**Ari:** There's A Zed & Two Noughts, which is pretty brilliant. He made a film early on called The Falls — about 88 people who all died in mysterious ways, who have "Fall" in their last name. It's like a three-hour experiment. The Baby of Macon is just pure, like a diseased movie, truly misanthropic. I feel like the word misanthropic is applied to Lars Von Trier, which I don't agree with — there's too much life in those films. But Greenaway, he's sucked all the human personality out. I happened to see them when I was 12, 13, and it really fucking bothered me and I couldn't get them out of my system for years.
+**Ari:** 还有《A Zed & Two Noughts》挺厉害的。他很早期拍了一部叫《The Falls》的片子——讲的是大约88个姓里带"Fall"、以神秘方式死去的人。三个小时的实验。《The Baby of Macon》就是纯粹的"病态电影"，真正的厌世。人们说 Lars Von Trier 厌世，我不同意——他的电影里生命力太旺盛了。但 Greenaway 把所有人性都抽走了。我12、13岁碰巧看了，真的困扰了我好几年。
+
+---
+
+### Errol Morris、Documentary Now! 与 Dan Clowes / Errol Morris, Documentary Now!, and Dan Clowes
+
+**Bill:** I saw The Thin Blue Line in a government class in high school. I thank God this guy Brady Pringle was like, "I'm going to play this movie about a murder."
+**Bill:** 我在高中政治课上看了《细细的蓝线》。感谢 Brady Pringle 老师说"我要放一部关于谋杀的电影。"
+
+**Ari:** Well, then you parody it on Documentary Now!, which is the fucking greatest. You even nailed the Philip Glass score, where you make it even more insistent and repetitive.
+**Ari:** 然后你在《Documentary Now!》里恶搞了它，太牛了。你甚至把 Philip Glass 的配乐钉得死死的，做得比原版还更执拗、更重复。
+
+**Bill:** Rhys Thomas and Alex Buono deserve a lot of credit for how good those came out. But yeah, I got a chance to meet Errol Morris for the American Cinematheque. He told me, "I saw Douglas Sirk once at Telluride. He's my favorite filmmaker. And he watched my first film, Gates of Heaven."
+**Bill:** Rhys Thomas 和 Alex Buono 做出来的效果功不可没。但我后来在美国电影资料馆有机会见到了 Errol Morris。他跟我说"我有一次在 Telluride 见到了 Douglas Sirk。他是我最喜欢的导演。他看了我的第一部电影《天堂之门》。"
+
+**Ari:** I love it. That and Vernon, Florida. They're amazing works of portraiture. What he innovated was bringing that level of aesthetic — there's a formalism and a very subtle surrealism. He's a cartoonist. It's a cartoonist sensibility.
+**Ari:** 我太爱那部了。还有《Vernon, Florida》。都是惊人的肖像作品。他的创新是把那种美学水准带进来——有一种形式主义和非常微妙的超现实主义。他是个漫画家，有漫画家的感性。
+
+**Bill:** We have a mutual friend, Dan Clowes. He's one of those guys that I go, "I can't believe I'm texting with this guy."
+**Bill:** 我们有个共同的朋友 Dan Clowes。他是那种让我想"我不敢相信我在和这个人发短信"的人。
+
+**Ari:** Dan's like my closest friend. He's the greatest guy in the world. On top of being an absolute genius — beyond Crumb, clearly the most important practitioner of his art.
+**Ari:** Dan 算是我最亲密的朋友之一。他是世界上最好的人。而且是绝对的天才——超越了 Crumb，显然是他这个领域最重要的实践者。
+
+**Ari:** Monica, which is a masterpiece. Everything he was doing in Eightball for me was as important as any film or book. I grew up wanting to make movies that felt like a Dan Clowes comic.
+**Ari:** 《Monica》是一部杰作。他在《Eightball》里做的一切，对我来说和任何电影或书一样重要。我从小就想拍出感觉像 Dan Clowes 漫画的电影。
+
+**Bill:** I remember reading Like a Velvet Glove Cast in Iron, when I was 19 in Arizona. I picked it up and read it and was like, "I've never read anything like this." I read it two or three times and could not believe how funny, and strange, and disturbing, and sad it was.
+**Bill:** 我19岁在亚利桑那的时候读了《Like a Velvet Glove Cast in Iron》。拿起来读完之后"我从来没读过这样的东西。"读了两三遍，不敢相信它有多搞笑、多奇怪、多令人不安、多悲伤。
+
+**Ari:** And Erika — you see Enid Coleslaw, you see where Ghost World came from.
+**Ari:** 还有 Erika（Dan 的妻子）——你看到 Enid Coleslaw，就知道《Ghost World》从哪来的。
+
+**Bill:** Going back to Errol Morris — Douglas Sirk went to see Gates of Heaven and hated it. He said, "That was a slideshow." And it just destroyed Errol Morris. He told me. And it weirdly made me feel like, "Oh, okay. Of course." That's how I feel anytime I meet one of my heroes, that I'd step in it or something. So I'm always like, "Don't meet them."
+**Bill:** 回到 Errol Morris——Douglas Sirk 去看了《天堂之门》，不喜欢。他说"那是个幻灯片。"这彻底摧毁了 Errol Morris。他亲口告诉我的。这反而让我觉得"好吧，当然了。"我每次见到偶像都会搞砸。所以我总是想"别去见他们。"
+
+---
+
 ### 在 SNL 遇见 Scorsese / Meeting Scorsese at SNL
 
 **Bill:** My thing at SNL was always like, "Oh my God, Scorsese's doing a bit." He was so nice, but I just went into his dressing room and immediately was like, "I'm going to go see your Shirley Clarke movie tomorrow, blah, blah, blah." I just wanted to rap with him so badly about movies. And the producer just pulled my shirt and was like, "Bill, get out of his dressing room, please."
@@ -342,22 +455,34 @@
 
 ---
 
-### 赫尔佐格、Peter Greenaway 与看电影的"对的时刻" / Herzog, Greenaway, and Seeing Films at the Right Time
+### "那些电影就像我的父母"与赫尔佐格 / "Those Movies Are Like My Parents" and Herzog
 
-**Bill:** Aguirre, the Wrath of God — the POV, that movie is a master of point of view. They just stay on the raft. Any other movie would've gone behind the natives, but he just stays on the raft. One of the most haunting images is when they leave that horse.
-**Bill:** 《阿基尔，上帝的愤怒》——视角，那部电影是视角的大师。他们就待在木筏上。别的电影会切到原住民那边，但他就待在木筏上不动。最令人难忘的画面之一是他们丢下那匹马的时候。
-
-**Ari:** Peter Greenaway — he's not somebody you get into, he gets into you. The Baby of Macon is like a diseased movie, truly misanthropic. The word misanthropic is applied to Lars Von Trier, which I don't agree with, I think there's too much life in those films. But Peter Greenaway, he's sucked all the human personality out of the films. And I just happened to see them when I was 12, 13, and it really fucking bothered me and I couldn't get them out of my system for years.
-**Ari:** Peter Greenaway——你不是走进他的世界，是他钻进你的世界。《The Baby of Macon》像一部有病的电影，真正的厌世。人们说 Lars Von Trier 厌世，我不同意——他的电影里生命力太旺盛了。但 Greenaway 把所有人性都抽走了。我12、13岁的时候碰巧看了他的电影，真的困扰了我好几年甩不掉。
-
-**Bill:** It's amazing when you see a certain thing at the right time. Like Clockwork Orange and Taxi Driver always have a huge impact on me because I saw them at a sleepover.
+**Bill:** It's amazing when you see a certain thing at the right time. Clockwork Orange and Taxi Driver always have a huge impact on me because I saw them at a sleepover.
 **Bill:** 在对的时间看到某些东西真的很神奇。《发条橙》和《出租车司机》对我影响巨大，因为我在一次过夜派对上看的。
 
 **Ari:** Yeah, those movies are like my parents.
 **Ari:** 对，那些电影就像我的父母。
 
-**Bill:** You just go, "Well, I saw those at a sleepover. I'm never the same again."
-**Bill:** 你就想"好吧，我在过夜派对上看了那些。我再也不一样了。"
+**Bill:** You just go, "Well, I saw those at a sleepover. I'm never the same again." And became obsessed with movies after that. And Aguirre, the Wrath of God's another one.
+**Bill:** 你就想"好吧，我在过夜派对上看了那些。我再也不一样了。"从那以后就对电影着了迷。《阿基尔，上帝的愤怒》也是。
+
+**Ari:** The monkeys crawling all over the boat.
+**Ari:** 猴子爬满了整条船。
+
+**Bill:** The POV — that movie is a master of point of view. They just stay on the raft, and those shots of the natives just looking at them. Any other movie would've gone behind the natives, but he just stays on the raft. One of the most haunting images is when they leave that horse. He holds on that as they drift away, and you go, "That thing's going to get eaten in five minutes."
+**Bill:** 视角——那部电影是视角的大师。他们就待在木筏上，原住民的镜头只是他们看向木筏。别的电影会切到原住民那边，但他就待在木筏上不动。最令人难忘的画面之一是他们丢下那匹马。镜头停在那里，他们慢慢漂远，你想"那东西五分钟内就会被吃掉。"
+
+**Ari:** So many of his experiments yield amazing results. Like Heart of Glass where everybody's hypnotized.
+**Ari:** 他的那么多实验都产出了惊人的结果。比如《玻璃精灵》里所有人都被催眠了。
+
+**Bill:** Have you seen the footage of him hypnotizing the people? It's amazing. And it's so much work.
+**Bill:** 你看过他催眠演员的影像吗？太不可思议了。而且工作量巨大。
+
+**Ari:** My favorite films of his are his documentaries — Fata Morgana, Lessons in Darkness. My favorite is Land of Silence and Darkness, with the mute, deaf, blind people. It's amazing.
+**Ari:** 我最喜欢他的纪录片——《法塔·莫尔加纳》《黑暗的教训》。最喜欢的是《沉默与黑暗之地》，关于又聋又盲又哑的人。太棒了。
+
+**Bill:** That's a tough movie, but it's really beautiful. He just likes such extreme subjects. I think in high school — late elementary school was finding Scorsese and Kubrick, always loving Spielberg. Then high school it was Herzog, Wim Wenders, and Errol Morris.
+**Bill:** 那部很难看但真的很美。他就是喜欢极端题材。我高中那阵子——小学晚期是发现 Scorsese 和 Kubrick，一直爱 Spielberg。到高中就是 Herzog、Wim Wenders、Errol Morris。
 
 ---
 
